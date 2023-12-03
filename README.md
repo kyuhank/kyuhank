@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My interest is focused on the application of quantitative methods to ecological challenges, with a special emphasis on conducting fisheries stock assessments.
+
 <!--
 **kyuhank/kyuhank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
