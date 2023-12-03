@@ -2,6 +2,8 @@
 
 My interest is focused on the application of quantitative methods to ecological challenges, with a special emphasis on conducting fisheries stock assessments.
 
+현재 뉴질랜드에서 활동하고 있지만, 한국 수산자원평가 방법의 개선과 새로운 방식의 도입에도 관심이 많습니다. 
+
 <!--
 **kyuhank/kyuhank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
